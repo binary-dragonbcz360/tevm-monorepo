@@ -31,7 +31,7 @@
 		"@tevm/tsconfig": "workspace:^",
 		"@tevm/tsupconfig": "workspace:^",
 		"@volar/language-core": "~2.4.14",
-		"@volar/language-server": "~2.4.14",
+		"@volar/language-server": "~2.4.23",
 		"@volar/language-service": "~2.4.14",
 		"effect": "3.15.4",
 		"solc": "0.8.30",
