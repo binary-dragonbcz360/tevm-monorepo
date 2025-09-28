@@ -69,7 +69,7 @@
 		"@types/minimatch": "^5.1.2",
 		"effect": "3.15.4",
 		"glob": "^11.0.2",
-		"minimatch": "^10.0.1",
+		"minimatch": "^10.0.3",
 		"solc": "0.8.30",
 		"solidity-ast": "^0.4.60"
 	},
