@@ -68,7 +68,7 @@
     "bun-types": "^1.2.14",
     "concurrently": "^9.1.2",
     "depcheck": "^1.4.7",
-    "dotenv": "^16.5.0",
+    "dotenv": "^17.2.3",
     "emnapi": "^1.4.3",
     "gitmoji-cli": "^9.7.0",
     "glob": "^11.0.2",
